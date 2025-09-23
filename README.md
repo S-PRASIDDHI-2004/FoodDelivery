@@ -1,10 +1,10 @@
-Food Delivery Application
+**Food Delivery Application**
 
 A simple Food Delivery API built with Spring Boot, Spring Data JPA, MySQL, and Swagger/OpenAPI for documentation.
 
 This project allows customers to place orders to restaurants, including multiple menu items, and view orders.
 
-Features
+**Features**
 
 Place orders for a customer to a restaurant
 
@@ -18,8 +18,7 @@ Swagger UI for easy API testing
 
 Handles bi-directional entity relationships
 
-
-Technologies
+**Technologies**
 
 Java 17
 
